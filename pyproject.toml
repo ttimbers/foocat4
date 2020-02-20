@@ -17,6 +17,7 @@ python-semantic-release = "^4.6.0"
 flake8 = "^3.7.9"
 sphinx = "^2.4.2"
 sphinxcontrib-napoleon = "^0.7"
+toml = "^0.10.0"
 
 [tool.semantic_release]
 version_variable = "foocat4/__init__.py:__version__"
