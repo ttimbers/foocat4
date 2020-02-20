@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "foocat4"
-version = "0.1.9"
+version = "0.1.10"
 description = "Python package that eases the pain concatenating Pandas categoricals!"
 authors = ["ttimbers <tiffany.timbers@stat.ubc.ca>"]
 license = "MIT"
